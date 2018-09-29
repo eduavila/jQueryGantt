@@ -1,11 +1,7 @@
 {
-  "name": "jquerygantt",
+  "name": "jq-gantt",
   "version": "1.0.0",
   "description": "JQuery Gantt Editor",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eduavila/jQueryGantt.git"
