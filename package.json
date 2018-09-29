@@ -1,0 +1,19 @@
+{
+  "name": "jquerygantt",
+  "version": "1.0.0",
+  "description": "JQuery Gantt Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduavila/jQueryGantt.git"
+  },
+  "author": "Roberto Bicchierai , Silvia Chelazzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduavila/jQueryGantt/issues"
+  },
+  "homepage": "https://github.com/eduavila/jQueryGantt#readme"
+}
